@@ -1,0 +1,32 @@
+# Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+venv/
+.env
+
+# Dependencies
+env/
+lib/
+bin/
+include/
+*.egg-info/
+*.egg
+
+# Tests
+tests/

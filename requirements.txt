@@ -1,0 +1,10 @@
+flask
+flask_login
+flask_migrate
+flask_sqlalchemy
+djlint
+black
+celery
+flask_babel
+flask-wtf
+python-dotenv
